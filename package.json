@@ -2,7 +2,8 @@
 {
   "name": "todo-app-new",
   "private": true,
-  "version": "0.0.0","homepage": "https://omii143.github.io/React-TodoApp",
+  "version": "0.0.0",
+  "homepage": "https://omii143.github.io/React-TodoApp",
   "description": "A simple Todo application built with React and Vite",
   "author": "Omii143",
 
